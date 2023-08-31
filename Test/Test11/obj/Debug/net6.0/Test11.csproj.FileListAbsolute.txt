@@ -1,0 +1,15 @@
+C:\Users\RogalicEnergy\Desktop\Test1\Test\Test11\bin\Debug\net6.0\Test11.exe
+C:\Users\RogalicEnergy\Desktop\Test1\Test\Test11\bin\Debug\net6.0\Test11.deps.json
+C:\Users\RogalicEnergy\Desktop\Test1\Test\Test11\bin\Debug\net6.0\Test11.runtimeconfig.json
+C:\Users\RogalicEnergy\Desktop\Test1\Test\Test11\bin\Debug\net6.0\Test11.dll
+C:\Users\RogalicEnergy\Desktop\Test1\Test\Test11\bin\Debug\net6.0\Test11.pdb
+C:\Users\RogalicEnergy\Desktop\Test1\Test\Test11\obj\Debug\net6.0\Test11.csproj.AssemblyReference.cache
+C:\Users\RogalicEnergy\Desktop\Test1\Test\Test11\obj\Debug\net6.0\Test11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RogalicEnergy\Desktop\Test1\Test\Test11\obj\Debug\net6.0\Test11.AssemblyInfoInputs.cache
+C:\Users\RogalicEnergy\Desktop\Test1\Test\Test11\obj\Debug\net6.0\Test11.AssemblyInfo.cs
+C:\Users\RogalicEnergy\Desktop\Test1\Test\Test11\obj\Debug\net6.0\Test11.csproj.CoreCompileInputs.cache
+C:\Users\RogalicEnergy\Desktop\Test1\Test\Test11\obj\Debug\net6.0\Test11.dll
+C:\Users\RogalicEnergy\Desktop\Test1\Test\Test11\obj\Debug\net6.0\refint\Test11.dll
+C:\Users\RogalicEnergy\Desktop\Test1\Test\Test11\obj\Debug\net6.0\Test11.pdb
+C:\Users\RogalicEnergy\Desktop\Test1\Test\Test11\obj\Debug\net6.0\Test11.genruntimeconfig.cache
+C:\Users\RogalicEnergy\Desktop\Test1\Test\Test11\obj\Debug\net6.0\ref\Test11.dll
